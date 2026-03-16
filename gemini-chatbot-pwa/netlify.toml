@@ -1,7 +1,3 @@
 [build]
   base = "gemini-chatbot-pwa"
-  publish = "build"
-  command = "npm run build"
-
-[dev]
-  command = "npm start"
+  publish = "."
